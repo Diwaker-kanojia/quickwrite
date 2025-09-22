@@ -5,7 +5,7 @@ Quick Write is a simple and stylish note-taking web application that helps you s
 👉 [Try Quick Write here](https://quick-notes-diwaker.netlify.app/)  
 
 ## 🚀 Features  
-- 📝 Add, edit, and delete notes  
+- 📝 Add and delete notes  
 - 🔍 Search notes instantly  
 - 🗂️ Categorize notes (e.g., Personal, Work)  
 - 🌗 Light/Dark mode toggle  
@@ -13,9 +13,12 @@ Quick Write is a simple and stylish note-taking web application that helps you s
 - 🎨 Clean and modern UI with responsive design  
 
 ## 🛠️ Tech Stack  
-- **Frontend**: React.js, Tailwind CSS  
-- **State Management**: React Hooks  
-- **Other**: Context API / Local Storage for persistence  
+
+- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+- ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+- **Storage**: LocalStorage  
+
 
 ## 📸 Screenshot  
 ![Quick Write Screenshot](assets/userInterface.png)  
