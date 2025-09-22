@@ -31,8 +31,3 @@ git clone https://github.com/your-username/quick-write.git
 # Navigate into the project folder
 cd quick-write
 
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
